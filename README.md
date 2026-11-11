@@ -1,4 +1,4 @@
-# 🧮 Projeto Web Calculator: Engenharia Front-End de uma Calculadora Moderna
+# 🧮 Projeto Web Calculadora: Engenharia Front-End de uma Calculadora Moderna
 
 Este repositório apresenta uma aplicação web de calculadora desenvolvida inteiramente com tecnologias nativas (*Vanilla Stack*), concebida para unir robustez lógica, design responsivo e uma experiência de usuário (UX) refinada.
 
